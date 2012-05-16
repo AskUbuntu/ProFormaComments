@@ -2,7 +2,7 @@ callback(
 [
 
 
-{ "name": "[Q]Really a bug ", "description": "This question should instead be filed as a bug report, and <a href=\"http://$SITEURL$/questions/1317/what-to-do-with-questions-that-describe-known-bugs/\">as such</a> is off-topic, thanks! <a href=\"http://askubuntu.com/questions/5121/how-do-i-report-a-bug\">Instructions on filing a bug report are here</a>."},
+{ "name": "[Q]Really a bug ", "description": "This question should instead be filed as a bug report, and <a href=\"http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/\">as such</a> is off-topic, thanks! <a href=\"http://askubuntu.com/questions/5121/how-do-i-report-a-bug\">Instructions on filing a bug report are here</a>."},
 
 { "name": "[Q]Hardware ", "description": "We need more hardware information to help you, can you look at <a href=\"http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into\">this question</a> and then edit your question adding the information."},
 
@@ -14,7 +14,7 @@ callback(
 
 { "name": "[Q]Forums ", "description": "Welcome to Ask Ubuntu! Question like this that are open ended should be posted in the <a href=\"http://ubuntuforums.org\">Ubuntu Forums</a>, please see the <a href=\"http://askubuntu.com/faq\">FAQ</a> for what is on-topic here, thanks!"},
 
-{ "name": "Half answer in a comment", "description": "Can you include a answer with instructions on how to do that? <a href=\"http://$SITEURL$/questions/2281/please-stop-posting-half-answers-and-dumb-advice-as-comments\">Leaving a half-answer as a comment</a> can often cause more harm than good. Thanks."},
+{ "name": "Half answer in a comment", "description": "Can you include a answer with instructions on how to do that? <a href=\"http://askubuntu.com/questions/2281/please-stop-posting-half-answers-and-dumb-advice-as-comments\">Leaving a half-answer as a comment</a> can often cause more harm than good. Thanks."},
 
 { "name": "[Q]More than one question asked", "description": "It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for atleast one of your questions. Thanks!"},
 
