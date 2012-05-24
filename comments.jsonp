@@ -18,7 +18,7 @@ callback(
 
 { "name": "[Q]More than one question asked", "description": "It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for atleast one of your questions. Thanks!"},
 
-{ "name": "[Q]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, <a href=\"http://meta.stackoverflow.com/q/8259\">it would be preferable</a> to include the essential parts of the answer here, and provide the link for reference."},
+{ "name": "[A]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, <a href=\"http://meta.stackoverflow.com/q/8259\">it would be preferable</a> to include the essential parts of the answer here, and provide the link for reference."},
 
 ]
 )
