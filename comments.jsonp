@@ -20,5 +20,7 @@ callback(
 
 { "name": "[A]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, <a href=\"http://meta.stackoverflow.com/q/8259\">it would be preferable</a> to include the essential parts of the answer here, and provide the link for reference."},
 
+{ "name": "[A]Requests OP for more info, but does not answer the question", "description": "Please use comments to ask the OP for more information. Answers should be used to provide a solution to the question and not to see further information."}
+
 ]
 )
