@@ -20,7 +20,7 @@ callback(
 
 { "name": "[A]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, <a href=\"http://meta.stackoverflow.com/q/8259\">it would be preferable</a> to include the essential parts of the answer here, and provide the link for reference."},
 
-{ "name": "[A] Linux Mint & other non-official ubuntu distros", "description": "Most questions tagged with non-official ubuntu distros are classed as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://askubuntu.com/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
+{ "name": "[Q] Linux Mint & other non-official ubuntu distros", "description": "Most questions tagged with non-official ubuntu distros are classed as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://askubuntu.com/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
 
 { "name": "[A]Comments as an answer!", "description": "Please don't add "comments" as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues."},
 
