@@ -22,9 +22,9 @@ callback(
 
 { "name": "[Q] Linux Mint & other non-official ubuntu distros", "description": "Most questions tagged with non-official ubuntu distros are classed as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://askubuntu.com/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
 
-{ "name": "[A]Comments as an answer!", "description": "Please don't add "comments" as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues."},
+{ "name": "[A]Comments as an answer (new users)", "description": "Please don't add "comments" as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues."},
 
-{ "name": "[A]Comments as an answer", "description": "Please don't add "comments" as answers. Use actual comments when seeking clarification of any issues."},
+{ "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add "comments" as answers. Use actual comments when seeking clarification of any issues."},
 
 { "name": "[A]Answer that is a question", "description": "Remember this is a Q&A site - so keep on editing your question with new information - this seciton is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},
 
