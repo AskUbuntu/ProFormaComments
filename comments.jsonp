@@ -26,7 +26,9 @@ callback(
 
 { "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add comments as answers. Use actual comments when seeking clarification of any issues."},
 
-{ "name": "[A]Answer that is a question", "description": "Remember this is a Q&A site - so keep on editing your question with new information - this seciton is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},
+{ "name": "[A]Answer that is a question", "description": "Remember this is a Q&A site - so keep on editing your question with new information - this seciton is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},  
+
+{ "name": "[Q]EOL Release Question", "description": "New questions about [end-of-life](https://wiki.ubuntu.com/Releases#End_of_Life_.28EOL.29) Ubuntu releases are considered off-topic as per [the FAQ](http://$SITEURL$/faq). These old releases are unsupported and their use is not recommended. They don't even get updates for newly discovered security vulnerabilities, which makes using them risky. If you install or upgrade to [a supported release](https://wiki.ubuntu.com/Releases#Stable) and this question still applies, please flag and/or comment to request it be reopened." },
 
 
 ]
