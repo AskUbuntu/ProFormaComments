@@ -30,6 +30,8 @@ callback(
 
 { "name": "[Q]EOL Release Question", "description": "New questions about [end-of-life](https://wiki.ubuntu.com/Releases#End_of_Life_.28EOL.29) Ubuntu releases are considered off-topic as per [the FAQ](http://$SITEURL$/faq). These old releases are unsupported and their use is not recommended. They don't even get updates for newly discovered security vulnerabilities, which makes using them risky. If you install or upgrade to [a supported release](https://wiki.ubuntu.com/Releases#Stable) and this question still applies, please flag and/or comment to request it be reopened." },
 
+{ "name": "[Q]Duplicate Closure" , "description": "This question will probably be closed as a duplicate soon. If those answers don't fully   
+address your question please edit it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!"
 
 ]
 )
