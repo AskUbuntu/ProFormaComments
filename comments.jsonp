@@ -28,6 +28,8 @@ callback(
 
 { "name": "[A]Answer that is a question", "description": "Remember this is a Q&A site - so keep on editing your question with new information - this seciton is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},
 
+{ "name": "[Q]Duplicate Closure" , "description": "This question will probably be closed as a duplicate soon. If those answers don't fully   
+address your question please edit it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!"
 
 ]
 )
