@@ -6,7 +6,7 @@ callback(
 
 { "name": "[Q]Hardware ", "description": "We need more hardware information to help you, can you look at <a href=\"http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into\">this question</a> and then edit your question adding the information."},
 
-{ "name": "[Q]Duplicate Closure" , "description": "This question will probably be closed as a duplicate soon. If those answers don't fully   
+{ "name": "[Q]Duplicate Closure", "description": "This question will probably be closed as a duplicate soon. If those answers don't fully   
 address your question please edit it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!"
 
 { "name": "[Q]Abandonment! ", "description": "This question appears to be abandoned and unanswered, could you perhaps add more detail to your question? If this question no longer applies then you can either delete it or answer it yourself if you've solved the problem. Thanks!"},
