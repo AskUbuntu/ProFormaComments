@@ -20,7 +20,7 @@ address your question please edit it to include why and [flag this for re-openin
 
 { "name": "[Q]More than one question asked", "description": "It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for atleast one of your questions. Thanks!"},  
 
-{ "name": "[A]Answers just to say Thanks!", "description":  "Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, which is the Ask Ubuntu way of saying thank you."},
+{ "name": "[A]Answers just to say Thanks!", "description":  "Please don't add 'thanks' as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, which is the Ask Ubuntu way of saying thank you."},
 
 { "name": "[A]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, <a href=\"http://meta.stackoverflow.com/q/8259\">it would be preferable</a> to include the essential parts of the answer here, and provide the link for reference."},
 
