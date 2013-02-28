@@ -33,5 +33,7 @@ callback(
 
 { "name": "[Q]Duplicate Closure", "description": "This question will probably be closed as a duplicate soon. If those answers don't fully address your question please edit it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!" },
 
+{ "name": "[Q]Answer to duplicate question", "description": "This question will probably be closed as a duplicate soonAs a result, this answer may be deleted for cleanup purposes, or merged into the other question. Thanks!" },
+
 ]
 )
