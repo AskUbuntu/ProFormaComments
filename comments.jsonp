@@ -16,6 +16,9 @@ callback(
 
 { "name": "[Q] Linux Mint & other non-official ubuntu distros", "description": "Most questions tagged with non-official ubuntu distros are classed as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://askubuntu.com/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
 
+{"name": "[Q]Merge accounts", "description": "Please use the contact us link at the bottom of this page to ask for your unregistered account and your new registered account to be merged. Thanks."},
+
+{ "name": "[Q]EOL Release Question", "description": "New questions about [end-of-life](https://wiki.ubuntu.com/Releases#End_of_Life_.28EOL.29) Ubuntu releases are considered off-topic as per [the FAQ](http://$SITEURL$/faq). These old releases are unsupported and their use is not recommended. They don't even get updates for newly discovered security vulnerabilities, which makes using them risky. If you install or upgrade to [a supported release](https://wiki.ubuntu.com/Releases#Stable) and this question still applies, please flag and/or comment to request it be reopened." },
 
 { "name": "[Q]More than one question asked", "description": "It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for atleast one of your questions. Thanks!"},  
 
