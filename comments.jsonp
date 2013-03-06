@@ -34,7 +34,9 @@ callback(
 
 { "name": "[A]Answer that is a question", "description": "Remember this is a Q&A site - so keep on editing your question with new information - this seciton is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},  
 
-{ "name": "[A]OP adding a new question as an answer ", "description": "If you have another question, please ask it by clicking the <a href=\"http://askubuntu.com/questions/ask\">Ask Question</a> button."},
+{ "name": "[A]OP adding a new question as an answer ", "description": "If you have another question, please ask it by clicking the <a href=\"http://askubuntu.com/questions/ask\">Ask Question</a> button."},  
+
+{"name": "[A]OP using an answer for further information", "description": "Please use the Post answer button only for actual answers. You should edit your original question to add additional information."},
 
 
 
