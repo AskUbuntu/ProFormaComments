@@ -37,6 +37,9 @@ callback(
 { "name": "[A]OP adding a new question as an answer ", "description": "If you have another question, please ask it by clicking the <a href=\"http://askubuntu.com/questions/ask\">Ask Question</a> button."},
 
 
+{"name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
+
 
 ]
 )
+
