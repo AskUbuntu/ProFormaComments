@@ -36,6 +36,10 @@ callback(
 
 { "name": "[A]OP adding a new question as an answer ", "description": "If you have another question, please ask it by clicking the <a href=\"http://askubuntu.com/questions/ask\">Ask Question</a> button."},
 
+{ "name": "[Q]OP providing facts in a comment", "description": "Please provide additional information only by editing your question and not within a comment. Comments might/will eventually be deleted and so your information would get lost."},  
+
+
+
 
 
 ]
