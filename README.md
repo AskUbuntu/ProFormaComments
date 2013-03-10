@@ -27,7 +27,7 @@ Enter the following URL in to the box, select the checkbox for auto-loading, and
 So you want to add more comments to this. That's great! You'll first need to [fork the
 repository](https://help.github.com/articles/fork-a-repo).
 
-Make sure you're working on top of the latest code from the repository of your merge 
+Make sure you're working on top of the latest code from the repository or your merge 
 request may be rejected.
 
 For sake of accountability and easy of rollback please make each new line item a single
@@ -44,7 +44,7 @@ in to the commit preceeding it. Save and close the text editor (<kbd>Ctrl</kbd> 
 <kbd>Ctrl</kbd> + <kbd>X</kbd>) Then edit the commit message you want to use for these
 new commits.
 
-Finally push to github and [open a merge request](https://help.github.com/articles/using-pull-requests)
+Finally push to github and [open a pull request](https://help.github.com/articles/using-pull-requests)
 
 # Style Guide
 
