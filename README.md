@@ -44,7 +44,7 @@ in to the commit preceeding it. Save and close the text editor (<kbd>Ctrl</kbd> 
 <kbd>Ctrl</kbd> + <kbd>X</kbd>) Then edit the commit message you want to use for these
 new commits.
 
-Finally push to github and [open a merge request](https://help.github.com/articles/using-pull-requests)
+Finally push to github and [open a pull request](https://help.github.com/articles/using-pull-requests)
 
 # Style Guide
 
