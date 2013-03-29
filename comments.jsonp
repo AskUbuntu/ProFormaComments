@@ -38,12 +38,7 @@ callback(
 
 { "name": "[Q]OP providing facts in a comment", "description": "Please provide additional information only by editing your question and not within a comment. Comments might/will eventually be deleted and so your information would get lost."},  
 
-
-
-
-{"name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
-
-
+{ "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
 
 ]
 )
