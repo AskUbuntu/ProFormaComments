@@ -36,7 +36,7 @@ callback(
 
 { "name": "[A]Answer that is a question", "description": "If you have another question, please ask it by clicking the <a href=\"http://askubuntu.com/questions/ask\">Ask Question</a> button."},
 
-{ "name": "[Q]OP providing facts in a comment", "description": "Please provide additional information only by editing your question and not within a comment. Comments might/will eventually be deleted and so your information would get lost."},  
+{ "name": "[Q]OP providing facts in a comment", "description": "The best way to add additional information to your question is by editing it, with the edit button. It is best seen that way, and comments are primarily for secondary, temporary purposes. Comments are removed under a variety of circumstances. Anything important to your question should be in the question itself."},  
 
 { "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
 
