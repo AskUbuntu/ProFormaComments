@@ -14,7 +14,7 @@ callback(
 
 { "name": "[Q]Forums ", "description": "Welcome to Ask Ubuntu! Question like this that are open ended should be posted in the <a href=\"http://ubuntuforums.org\">Ubuntu Forums</a>, please see the <a href=\"http://askubuntu.com/faq\">FAQ</a> for what is on-topic here, thanks!"},
 
-{ "name": "[Q] Linux Mint & other non-official ubuntu distros", "description": "Most questions tagged with non-official ubuntu distros are classed as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://askubuntu.com/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
+{ "name": "[Q]Linux Mint & other non-official ubuntu distros", "description": "Most questions about non-official Ubuntu derivatives are classed as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://$SITEURL$/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
 
 {"name": "[Q]Merge accounts", "description": "Please use the contact us link at the bottom of this page to ask for your unregistered account and your new registered account to be merged. Thanks."},
 
