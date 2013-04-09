@@ -1,6 +1,7 @@
 callback(
 [
 
+{ "name": "[Q]NARQ / Difficult to tell what's being asked", "description": "It's difficult to tell what is being asked here. This is ambiguous, vague, incomplete, overly broad or rhetorical and cannot be reasonably answered in its current form. Please be a little bit more specific or detailed about whay you're trying to accomplish, or take a look at <a href=\"http://$SITEURL$/faq#dontask\">What kind of questions should I not ask here?</a>"},
 
 { "name": "[Q]Really a bug ", "description": "This question should instead be filed as a bug report, and <a href=\"http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/\">as such</a> is off-topic, thanks! <a href=\"http://askubuntu.com/questions/5121/how-do-i-report-a-bug\">Instructions on filing a bug report are here</a>."},
 
