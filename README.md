@@ -2,7 +2,7 @@
 
 In order to ensure quality and help prevent pull requests from breaking the script, we are using [travis-ci.org](http://travis-ci.org) for continuous integration testing. The current status is:
 
-![ProForma Continuous Integration Status](https://secure.travis-ci.org/nathan-osman/ProFormaComments.png)
+![ProForma Continuous Integration Status](https://secure.travis-ci.org/AskUbuntu/ProFormaComments.png)
 
 ## Overview
 
