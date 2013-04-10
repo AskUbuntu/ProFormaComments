@@ -1,4 +1,10 @@
-##I hear you like canned comments.
+## Build Status:
+
+In order to ensure quality and help prevent pull requests from breaking the script, we are using [travis-ci.org](http://travis-ci.org) for continuous integration testing. The current status is:
+
+![ProForma Continuous Integration Status](https://secure.travis-ci.org/nathan-osman/ProFormaComments.png)
+
+## Overview
 
 So, on [Ask Ubuntu](http://askubuntu.com), we have a problem.
 
@@ -10,4 +16,7 @@ To install them, simply add the following link as a `remote source`:
 
 > https://raw.github.com/askubuntu/ProFormaComments/master/comments.jsonp
 
+## Contributions
+
+If you would like to contribute to the list of comments or suggest changes, just open a pull request and we'll be glad to take a look at it.
 
