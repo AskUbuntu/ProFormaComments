@@ -1,0 +1,23 @@
+{
+    "name":        "au-pro-forma",
+    "version":     "0.1.0",
+    "author":      "Nathan Osman <admin@quickmediasolutions.com>",
+    "description": "provides a list of commonly used comments on Ask Ubuntu",
+    "contributors": [
+        {
+            "name":  "Nathan Osman",
+            "email": "admin@quickmediasolutions.com"
+        }
+    ],
+    "scripts": {
+        "test": "node ./verify"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AskUbuntu/ProFormaComments.git"
+    },
+    "license": "CC BY-SA 3.0",
+    "engines": {
+        "node": ">=0.6"
+    }
+}
