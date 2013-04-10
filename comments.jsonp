@@ -1,18 +1,19 @@
 callback(
 [
 
+{ "name": "[Q]NARQ / Difficult to tell what's being asked", "description": "It's difficult to tell what is being asked here. This is ambiguous, vague, incomplete, overly broad or rhetorical and cannot be reasonably answered in its current form. Please be a little bit more specific or detailed about whay you're trying to accomplish, or take a look at [What kind of questions should I not ask here?](http://$SITEURL$/faq#dontask)"},
 
-{ "name": "[Q]Really a bug ", "description": "This question should instead be filed as a bug report, and <a href=\"http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/\">as such</a> is off-topic, thanks! <a href=\"http://askubuntu.com/questions/5121/how-do-i-report-a-bug\">Instructions on filing a bug report are here</a>."},
+{ "name": "[Q]Really a bug ", "description": "This question should instead be filed as a bug report, and [as such](http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/) is off-topic, thanks! [Instructions on filing a bug report are here](http://askubuntu.com/questions/5121/how-do-i-report-a-bug)."},
 
-{ "name": "[Q]Hardware ", "description": "We need more hardware information to help you, can you look at <a href=\"http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into\">this question</a> and then edit your question adding the information."},
+{ "name": "[Q]Hardware ", "description": "We need more hardware information to help you, can you look at [this question](http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into) and then edit your question adding the information."},
 
 { "name": "[Q]Duplicate Closure", "description": "This question will probably be closed as a duplicate soon. If those answers don't fully address your question please edit it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!" },
 
 { "name": "[Q]Abandonment! ", "description": "This question appears to be abandoned and unanswered. If you solved it, please post an answer explaining how it was solved (answering your own questions is not merely permitted, but [encouraged when there is no other answer that does the job](http://blog.stackoverflow.com/2011/07/its-ok-to-ask-and-answer-your-own-questions/)). If the question no longer applies you may voluntarily delete/close it."},
 
-{ "name": "[Q]Boot issues ", "description": "It looks like this could be a boot issue, can you <a href=\"http://askubuntu.com/questions/90045/how-do-i-investigate-boot-and-partition-issues\">look at this question</a> to get the information we need and then edit it into your question? Thanks!"},
+{ "name": "[Q]Boot issues ", "description": "It looks like this could be a boot issue, can you [look at this question](http://askubuntu.com/questions/90045/how-do-i-investigate-boot-and-partition-issues) to get the information we need and then edit it into your question? Thanks!"},
 
-{ "name": "[Q]Forums ", "description": "Welcome to Ask Ubuntu! Question like this that are open ended should be posted in the <a href=\"http://ubuntuforums.org\">Ubuntu Forums</a>, please see the <a href=\"http://askubuntu.com/faq\">FAQ</a> for what is on-topic here, thanks!"},
+{ "name": "[Q]Forums ", "description": "Welcome to Ask Ubuntu! Question like this that are open ended should be posted in the [Ubuntu Forums](http://ubuntuforums.org), please see the [FAQ](http://$SITEURL$/faq)"} for what is on-topic here, thanks!"},
 
 { "name": "[Q]Linux Mint & other non-official ubuntu distros", "description": "Most questions about non-official Ubuntu derivatives are classified as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://$SITEURL$/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
 
@@ -24,9 +25,9 @@ callback(
 
 { "name": "[A]Answers just to say Thanks!", "description":  "Please don't add 'thanks' as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, which is the Ask Ubuntu way of saying thank you."},
 
-{ "name": "[A]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, <a href=\"http://meta.stackoverflow.com/q/8259\">it would be preferable</a> to include the essential parts of the answer here, and provide the link for reference."},
+{ "name": "[A]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, [it would be preferable](http://meta.stackoverflow.com/q/8259) to include the essential parts of the answer here, and provide the link for reference."},
 
-{ "name": "[A]Half answer in a comment", "description": "Can you include a answer with instructions on how to do that? <a href=\"http://meta.askubuntu.com/questions/2281/please-stop-posting-half-answers-and-dumb-advice-as-comments\">Leaving a half-answer as a comment</a> can often cause more harm than good. Thanks."},
+{ "name": "[A]Half answer in a comment", "description": "Can you include a answer with instructions on how to do that? [Leaving a half-answer as a comment](http://meta.askubuntu.com/questions/2281/please-stop-posting-half-answers-and-dumb-advice-as-comments) can often cause more harm than good. Thanks."},
 
 { "name": "[A]Comments as an answer (new users)", "description": "Please don't add comments as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues."},
 
@@ -34,7 +35,7 @@ callback(
 
 { "name": "[A]OP adding a new question as an answer", "description": "Remember this is a Q&A site - so keep on editing your question with new information - this section is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},  
 
-{ "name": "[A]Answer that is a question", "description": "If you have another question, please ask it by clicking the <a href=\"http://askubuntu.com/questions/ask\">Ask Question</a> button."},
+{ "name": "[A]Answer that is a question", "description": "If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},
 
 { "name": "[Q]OP providing facts in a comment", "description": "The best way to add additional information to your question is by editing it, with the *edit* button. It is better visible that way, and comments are mainly for secondary, temporary purposes. Comments are removed under a variety of circumstances. Anything important to your question should be in the question itself."},  
 
