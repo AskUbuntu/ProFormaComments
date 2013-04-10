@@ -41,6 +41,8 @@ callback(
 
 { "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
 
+{ "name": "[A]Answering a duplicate", "description": "This question will probably be closed as a duplicate soon.  As a result, this answer may be deleted for cleanup purposes, or merged into the other question. Thanks!" },
+
 ]
 )
 
