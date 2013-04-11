@@ -13,7 +13,7 @@ callback(
 
 { "name": "[Q]Boot issues ", "description": "It looks like this could be a boot issue, can you [look at this question](http://askubuntu.com/questions/90045/how-do-i-investigate-boot-and-partition-issues) to get the information we need and then edit it into your question? Thanks!"},
 
-{ "name": "[Q]Forums ", "description": "Welcome to Ask Ubuntu! Question like this that are open ended should be posted in the [Ubuntu Forums](http://ubuntuforums.org), please see the [FAQ](http://$SITEURL$/faq) for what is on-topic here, thanks!"},
+{ "name": "[Q]Forums ", "description": "Welcome to Ask Ubuntu! Questions like this that are open ended should be posted in the [Ubuntu Forums](http://ubuntuforums.org), please see the [FAQ](http://$SITEURL$/faq) for what is on-topic here, thanks!"},
 
 { "name": "[Q]Linux Mint & other non-official ubuntu distros", "description": "Most questions about non-official Ubuntu derivatives are classified as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [FAQ](http://$SITEURL$/faq)). However, it would be on-topic at [the Unix & Linux Stack Exchange](http://unix.stackexchange.com)."},
 
