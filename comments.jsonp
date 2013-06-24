@@ -29,7 +29,7 @@ callback(
 
 { "name": "[A]Half answer in a comment", "description": "Can you include a answer with instructions on how to do that? [Leaving a half-answer as a comment](http://meta.askubuntu.com/questions/2281/please-stop-posting-half-answers-and-dumb-advice-as-comments) can often cause more harm than good. Thanks."},
 
-{ "name": "[A]Comments as an answer (new users)", "description": "Please don't add comments as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues."},
+{ "name": "[A]Comments as an answer (new users)", "description": "Please don't add comments as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues. If you have a new question please [ask it](http://askubuntu.com/questions/ask)."},
 
 { "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add comments as answers. Use actual comments when seeking clarification of any issues."},
 
