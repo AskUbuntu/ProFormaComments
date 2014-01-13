@@ -39,7 +39,9 @@ callback(
 
 { "name": "[Q]OP providing facts in a comment", "description": "The best way to add additional information to your question is by editing it, with the *edit* button. It is better visible that way, and comments are mainly for secondary, temporary purposes. Comments are removed under a variety of circumstances. Anything important to your question should be in the question itself."},  
 
-{ "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"}
+{ "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
+
+{ "name": "OP should accept an answer", "description": "@[OP]: If [type here] answer is helpful to you then please consider marking it as the accepted answer so others may more easily find it in the future. This is also a polite way to thank the person answering your question for helping you out. See the [help center](http://$SITEURL$/help/accepted-answer)"}
 
 ]
 )
