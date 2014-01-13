@@ -41,7 +41,7 @@ callback(
 
 { "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
 
-{ "name": "OP should accept an answer", "description": "@[OP]: If [type here] answer solved your problem, then you should accept it by clicking the checkmark on the answer. This will mark your question as answered, see more on accepting at the [help center](http://$SITEURL$/help/accepted-answer)."}
+{ "name": "OP should accept an answer", "description": "@[OP]: If [type here] answer is helpful to you then please consider marking it as the accepted answer so others may more easily find it in the future. This is also a polite way to thank the person answering your question for helping you out. See the [help center](http://$SITEURL$/help/accepted-answer)"}
 
 ]
 )
