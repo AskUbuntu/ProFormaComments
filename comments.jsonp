@@ -39,7 +39,7 @@ callback(
 
 { "name": "[Q]OP providing facts in a comment", "description": "The best way to add additional information to your question is by editing it, with the *edit* button. It is better visible that way, and comments are mainly for secondary, temporary purposes. Comments are removed under a variety of circumstances. Anything important to your question should be in the question itself."},  
 
-{ "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"}
+{ "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
 
 { "name": "[A]Duplicate answers.", "description": "Please do not post duplicate answers on different questions. It just creates more work for the moderators. If the questions are so similar that the same answer works on each, then the later of the two is likely a duplicate and should be flagged as such."}
 
