@@ -41,7 +41,7 @@ callback(
 
 { "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
 
-{ "name": "OP should accept an answer", "description": "@[OP]: If [type here] answer was helpful to you, then please consider marking it as the [accepted answer](http://$SITEURL$/help/accepted-answer) so others may more easily find it in the future. This is also a polite way to thank the person answering your question for helping you out."}
+{ "name": "OP should accept an answer", "description": "@[OP]: If [type here] answer was helpful to you, then please consider marking it as the [accepted answer](http://$SITEURL$/help/accepted-answer) so others may more easily find it in the future. This is also a polite way to thank the person answering your question for helping you out."},
 
 { "name": "[A]Duplicate answers.", "description": "Please do not post duplicate answers on different questions. It just creates more work for the moderators. If the questions are so similar that the same answer works on each, then the later of the two is likely a duplicate and should be flagged as such."}
 
