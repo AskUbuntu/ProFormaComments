@@ -1,22 +1,24 @@
-## Build Status:
+## Pro Forma Comments
 
-In order to ensure a base level of quality and help prevent pull requests from breaking the script, we are using [travis-ci.org](http://travis-ci.org) for continuous integration testing. The current status is:
+[![Pro Forma Continuous Integration Status](https://secure.travis-ci.org/AskUbuntu/ProFormaComments.png)](https://travis-ci.org/AskUbuntu/ProFormaComments)
 
-![ProForma Continuous Integration Status](https://secure.travis-ci.org/AskUbuntu/ProFormaComments.png)
+This repository exists to simplify the process of maintaining a list of frequently used comments for posting on Ask Ubuntu questions. This is done by adding our special URL to [this userscript](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se).
 
-## Overview
+### Instructions
 
-On [Ask Ubuntu](http://askubuntu.com) we have a problem:
-
-We have a bunch of "stock" comments that we use, as part of keeping the site running smoothly. More or less, what we do is we use [this userscript](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se) and then store our community suggested comments [over here on meta](http://meta.askubuntu.com/q/1323/6005). 
-
-However, this became a problem - mainly because the pro-forma script that linked above now has support for remote sources - so this Git repo is where we're storing them.
-
-To install them, simply add the following link as a `remote source`:
+Add the following URL as a remote source:
 
 > https://raw.github.com/askubuntu/ProFormaComments/master/comments.jsonp
 
-## Contributions
+### History
+
+We had a problem over on [Ask Ubuntu](http://askubuntu.com).
+
+We had a bunch of "stock" comments that we used, as part of keeping the site running smoothly. More or less, what we did was use the Pro Forma Script and then store our community suggested comments within [this answer on Meta.AU](http://meta.askubuntu.com/q/1323/6005).
+
+As you can imagine, this became a problem. The Pro Forma Script linked above now has support for remote sources - so this Git repo is where we're storing them.
+
+### Contributions
 
 If you would like to contribute to the list of comments or suggest changes, please follow these simple steps:
 
