@@ -1,7 +1,6 @@
 callback(
 [
 
-{ "name": "[Q]NARQ / Difficult to tell what's being asked", "description": "It's difficult to tell what is being asked here. This is ambiguous, vague, incomplete, overly broad or rhetorical and cannot be reasonably answered in its current form. Please be a little bit more specific or detailed about whay you're trying to accomplish, or take a look at [What types of questions should I avoid asking?](http://$SITEURL$/help/dont-ask)"},
 
 { "name": "[Q]Really a bug ", "description": "This question should instead be filed as a bug report, and [as such](http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/) is off-topic, thanks! [Instructions on filing a bug report are here](http://askubuntu.com/questions/5121/how-do-i-report-a-bug)."},
 
