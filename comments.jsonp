@@ -2,17 +2,17 @@ callback(
 [
 
 
-{ "name": "[Q]Really a bug ", "description": "This question should instead be filed as a bug report, and [as such](http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/) is off-topic, thanks! [Instructions on filing a bug report are here](http://askubuntu.com/questions/5121/how-do-i-report-a-bug)."},
+{ "name": "[Q]Really a bug", "description": "This question should instead be filed as a bug report, and [as such](http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/) is off-topic, thanks! [Instructions on filing a bug report are here](http://askubuntu.com/questions/5121/how-do-i-report-a-bug)."},
 
-{ "name": "[Q]Hardware ", "description": "We need more hardware information to help you, can you look at [this question](http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into) and then edit your question adding the information."},
+{ "name": "[Q]Hardware", "description": "We need more hardware information to help you, can you look at [this question](http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into) and then edit your question adding the information."},
 
 { "name": "[Q]Duplicate Closure", "description": "This question will probably be closed as a duplicate soon. If those answers don't fully address your question please edit it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!" },
 
-{ "name": "[Q]Abandonment! ", "description": "This question appears to be abandoned and unanswered. If you solved it, please post an answer explaining how it was solved (answering your own questions is not merely permitted, but [encouraged when there is no other answer that does the job](http://blog.stackoverflow.com/2011/07/its-ok-to-ask-and-answer-your-own-questions/)). If the question no longer applies you may voluntarily delete/close it."},
+{ "name": "[Q]Abandonment!", "description": "This question appears to be abandoned and unanswered. If you solved it, please post an answer explaining how it was solved (answering your own questions is not merely permitted, but [encouraged when there is no other answer that does the job](http://blog.stackoverflow.com/2011/07/its-ok-to-ask-and-answer-your-own-questions/)). If the question no longer applies you may voluntarily delete/close it."},
 
-{ "name": "[Q]Boot issues ", "description": "It looks like this could be a boot issue, can you [look at this question](http://askubuntu.com/questions/90045/how-do-i-investigate-boot-and-partition-issues) to get the information we need and then edit it into your question? Thanks!"},
+{ "name": "[Q]Boot issues", "description": "It looks like this could be a boot issue, can you [look at this question](http://askubuntu.com/questions/90045/how-do-i-investigate-boot-and-partition-issues) to get the information we need and then edit it into your question? Thanks!"},
 
-{ "name": "[Q]Forums ", "description": "Welcome to Ask Ubuntu! Questions like this that are open ended should be posted in the [Ubuntu Forums](http://ubuntuforums.org), please see the [help/on-topic] for what is on-topic here, thanks!"},
+{ "name": "[Q]Forums", "description": "Welcome to Ask Ubuntu! Questions like this that are open ended should be posted in the [Ubuntu Forums](http://ubuntuforums.org), please see the [help/on-topic] for what is on-topic here, thanks!"},
 
 { "name": "[Q]Linux Mint & other non-official ubuntu distros", "description": "Most questions about non-official Ubuntu derivatives are classified as *off-topic*. This isn't the correct Stack Exchange site to ask questions about non-official Ubuntu distributions (see the [help/on-topic]. However, it would be on-topic at the [unix.se] Stack Exchange."},
 
