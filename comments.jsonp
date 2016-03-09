@@ -4,13 +4,13 @@ callback(
 
 { "name": "[Q]Really a bug", "description": "This question should instead be filed as a bug report, and [as such](http://meta.askubuntu.com/questions/1317/what-to-do-with-questions-that-describe-known-bugs/) is off-topic, thanks! [Instructions on filing a bug report are here](http://askubuntu.com/questions/5121/how-do-i-report-a-bug)."},
 
-{ "name": "[Q]Hardware", "description": "We need more hardware information to help you, can you look at [this question](http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into) and then edit your question adding the information."},
+{ "name": "[Q]Hardware", "description": "We need more hardware information to help you, can you look at [this question](http://askubuntu.com/questions/14008/i-have-a-hardware-detection-problem-what-logs-do-i-need-to-look-into) and then [edit] your question adding the information."},
 
-{ "name": "[Q]Duplicate Closure", "description": "This question will probably be closed as a duplicate soon. If those answers don't fully address your question please edit it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!"},
+{ "name": "[Q]Duplicate Closure", "description": "This question will probably be closed as a duplicate soon. If those answers don't fully address your question please [edit] it to include why and [flag this for re-opening](http://meta.askubuntu.com/a/6073/44179). Thanks!"},
 
 { "name": "[Q]Abandonment!", "description": "This question appears to be abandoned and unanswered. If you solved it, please post an answer explaining how it was solved (answering your own questions is not merely permitted, but [encouraged when there is no other answer that does the job](http://blog.stackoverflow.com/2011/07/its-ok-to-ask-and-answer-your-own-questions/)). If the question no longer applies you may voluntarily delete/close it."},
 
-{ "name": "[Q]Boot issues", "description": "It looks like this could be a boot issue, can you [look at this question](http://askubuntu.com/questions/90045/how-do-i-investigate-boot-and-partition-issues) to get the information we need and then edit it into your question? Thanks!"},
+{ "name": "[Q]Boot issues", "description": "It looks like this could be a boot issue, can you [look at this question](http://askubuntu.com/questions/90045/how-do-i-investigate-boot-and-partition-issues) to get the information we need and then [edit] it into your question? Thanks!"},
 
 { "name": "[Q]Forums", "description": "Welcome to Ask Ubuntu! Questions like this that are open ended should be posted in the [Ubuntu Forums](http://ubuntuforums.org), please see the [help/on-topic] for what is on-topic here, thanks!"},
 
@@ -32,11 +32,11 @@ callback(
 
 { "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add comments as answers. Use actual comments when seeking clarification of any issues."},
 
-{ "name": "[A]OP adding a new question as an answer", "description": "Remember this is a Q&A site - so keep on editing your question with new information - this section is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},  
+{ "name": "[A]OP adding a new question as an answer", "description": "Remember this is a Q&A site - so keep on [edit]ing your question with new information - this section is for actual answers. If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},  
 
 { "name": "[A]Answer that is a question", "description": "If you have another question, please ask it by clicking the [Ask Question](http://askubuntu.com/questions/ask) button."},
 
-{ "name": "[Q]OP providing facts in a comment", "description": "The best way to add additional information to your question is by editing it, with the *edit* button. It is better visible that way, and comments are mainly for secondary, temporary purposes. Comments are removed under a variety of circumstances. Anything important to your question should be in the question itself."},  
+{ "name": "[Q]OP providing facts in a comment", "description": "The best way to add additional information to your question is by editing it, with the [edit] button. It is better visible that way, and comments are mainly for secondary, temporary purposes. Comments are removed under a variety of circumstances. Anything important to your question should be in the question itself."},  
 
 { "name": "[A]OP using an answer for further information", "description": "Please use the *Post answer* button only for actual answers. You should modify your original question to add additional information"},
 
